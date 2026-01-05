@@ -16,6 +16,19 @@ Push buttons (entry and exit)
 
 7-segment display
 
+
+How to Run
+
+Open the DEEDS Simulator.
+
+Load the master and slave DMC8 assembly files.
+
+Connect the I/O ports according to the project circuit.
+
+Run the simulation.
+
+Use the entry and exit push buttons to change the vehicle count and observe the display and LEDs.
+
 Green, yellow and red LEDs
 
 PBSI (Push Button Sensor Interface)
